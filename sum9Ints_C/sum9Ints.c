@@ -18,6 +18,6 @@ int main(void)
     int i = 9;
    
     total = addNine(a, b, c, d, e, f, g, h, i);
-    printf("The sum is %i\n", total);
+    printf("The total is %i\n", total);
     return 0;
 }
